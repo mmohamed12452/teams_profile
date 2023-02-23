@@ -20,7 +20,7 @@ If testing is required, this application uses Jest.
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Screencastify]()<br>
+View walk through video here - [Screencastify](https://drive.google.com/file/d/1Y4L8ZDenKIzK7T92K5IOIK7zUFZ1WEkR/view?usp=sharing)<br>
 
 
 ## License 
